@@ -1,0 +1,1 @@
+{"name":"candidatedashboards","description":"dashboardserverapp","version":"1.0.0","engines":{"node":"^17.1.0"},"dependencies":{"cors-anywhere":"^0.4.4","cryptr":"^6.0.3","dotenv":"^16.0.1","express":"^4.17.1","jsonwebtoken":"^8.5.1","mongodb":"^3.6.4","socket.io":"^3.1.1"},"scripts":{"start":"node server.js"},"main":"server.js","author":"Deep","license":"ISC"}
